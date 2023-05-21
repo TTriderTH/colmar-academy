@@ -1,0 +1,36 @@
+.Nav_Bar > img {
+  width: 32px;
+  height: 32px;
+}
+
+.Nav_Bar {
+    display: flex;
+    align-items: center;
+}
+
+.Nav_Bar > p{
+    font-size: 32px;
+
+  }
+
+.LIGHT  {
+    font-weight: lighter;
+}
+
+.BOLD {
+    font-weight: bold;
+}
+
+.Top{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin-right: 24px;
+    gap: 16px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
